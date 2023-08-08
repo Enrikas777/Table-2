@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Roboto+Condensed:wght@400;700&family=Ubuntu:wght@400;700&display=swap');
+*/{
+font-family: 'Borel', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+table{
+margin: 50px;
+border: 2px solid white;
+background: white;
+color: white;
+}
+th,td{
+padding: 10px;
+text-align: center;
+border-collapse: collapse;
+}
+th{
+background: purple;
+}
+
+td{
+background: rgb(192, 60, 157);    
+}
+
+
+
+.object1{
+background: rgb(157, 10, 130);
+
+}
